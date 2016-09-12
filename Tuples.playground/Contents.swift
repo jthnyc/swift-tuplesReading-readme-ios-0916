@@ -17,7 +17,8 @@ person.age
 person.name
 print("\(person.name)'s age is \(person.age)")
 
-var person2 = (name: "Jim", age: 30)
+
+var person2 = (name: "Joanna", age: 26)
 print("\(person2.name)'s age is \(person2.age)")
-person2.age = 32
+person2.age = 27
 print("\(person2.name)'s age is \(person2.age)")
